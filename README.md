@@ -48,6 +48,7 @@ The project follows these steps:
 ## Screenshots
 
 **Percentage of positive, negative, and neutral reviews.**
+
 <img width="357" alt="Screenshot 2025-03-23 at 13 09 26" src="https://github.com/user-attachments/assets/85b928e0-fe7f-43fb-9542-7c5c2bd8616c" />
 
 ##
@@ -73,11 +74,13 @@ The project follows these steps:
 ##
 
 **Customer Satisfaction by Season** 
+
 <img width="716" alt="Screenshot 2025-03-23 at 12 53 08" src="https://github.com/user-attachments/assets/a0188458-8260-478c-bd23-25d204a8dd20" />
 
 ##
 
 **Sentiment Distribution for Top 10 Routes:**
+
 <img width="790" alt="Screenshot 2025-03-23 at 12 54 30" src="https://github.com/user-attachments/assets/1b66e333-ddfc-4df1-bb1e-a205e15a196c" />
 
 
