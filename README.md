@@ -2,6 +2,8 @@
 
 This project analyzes airline reviews to understand customer satisfaction and identify key factors influencing travel experiences. The analysis includes data cleaning, exploratory data analysis, sentiment analysis, and hypothesis testing.
 
+<img width="791" alt="Screenshot 2025-03-23 at 09 09 07" src="https://github.com/user-attachments/assets/a89c26d3-82e3-48fc-a911-80ae4bb36b1a" />
+
 ## Project Overview
 
 The project aims to:
@@ -65,14 +67,6 @@ The project follows these steps:
 
 ##
 
-**Word Clouds**
-
-<img width="791" alt="Screenshot 2025-03-23 at 09 09 07" src="https://github.com/user-attachments/assets/a89c26d3-82e3-48fc-a911-80ae4bb36b1a" />
-<img width="791" alt="Screenshot 2025-03-23 at 09 08 58" src="https://github.com/user-attachments/assets/800865e9-0567-4dbc-9b8f-8eb41385723b" />
-<img width="791" alt="Screenshot 2025-03-23 at 09 08 49" src="https://github.com/user-attachments/assets/e6d11b4a-66e0-4d84-91fc-be349664311a" />
-
-##
-
 **Customer Satisfaction by Season** 
 
 <img width="716" alt="Screenshot 2025-03-23 at 12 53 08" src="https://github.com/user-attachments/assets/a0188458-8260-478c-bd23-25d204a8dd20" />
@@ -83,14 +77,3 @@ The project follows these steps:
 
 <img width="790" alt="Screenshot 2025-03-23 at 12 54 30" src="https://github.com/user-attachments/assets/1b66e333-ddfc-4df1-bb1e-a205e15a196c" />
 
-
-## Requirements
-
-- Python 3
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- nltk
-- wordcloud
-- scipy
