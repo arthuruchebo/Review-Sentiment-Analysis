@@ -48,6 +48,7 @@ The project follows these steps:
 ## Screenshots
 
 **Percentage of positive, negative, and neutral reviews.**
+<img width="357" alt="Screenshot 2025-03-23 at 13 09 26" src="https://github.com/user-attachments/assets/85b928e0-fe7f-43fb-9542-7c5c2bd8616c" />
 
 ##
 
@@ -71,7 +72,7 @@ The project follows these steps:
 
 ##
 
-**Customer Satisfaction by Season**
+**Customer Satisfaction by Season** 
 <img width="716" alt="Screenshot 2025-03-23 at 12 53 08" src="https://github.com/user-attachments/assets/a0188458-8260-478c-bd23-25d204a8dd20" />
 
 ##
