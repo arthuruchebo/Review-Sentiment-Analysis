@@ -53,7 +53,7 @@ The project follows these steps:
 
 ##
 
-**Distribution of Ratings:** A bar chart showing the frequency of each rating (1-5)
+**Distribution of Ratings:** A bar chart showing the frequency of each rating (1-10)
 
 <img width="678" alt="Screenshot 2025-03-23 at 09 07 33" src="https://github.com/user-attachments/assets/cb69c4ce-13f2-4cf2-9495-8753fa00be40" />
 
