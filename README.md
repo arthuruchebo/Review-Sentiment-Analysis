@@ -48,24 +48,28 @@ The project follows these steps:
 ## Screenshots
 
 **Percentage of positive, negative, and neutral reviews.**
-
-
+##
 
 **Distribution of Ratings:** A bar chart showing the frequency of each rating (1-5)
+
 <img width="678" alt="Screenshot 2025-03-23 at 09 07 33" src="https://github.com/user-attachments/assets/cb69c4ce-13f2-4cf2-9495-8753fa00be40" />
 ##
+
 **Popular Routes:** A bar chart showing the top 10
 <img width="792" alt="Screenshot 2025-03-23 at 09 06 22" src="https://github.com/user-attachments/assets/861d669a-893a-4f3c-8761-aaf656e858e0" />
 ##
+
 **Word Clouds**
 
 <img width="791" alt="Screenshot 2025-03-23 at 09 09 07" src="https://github.com/user-attachments/assets/a89c26d3-82e3-48fc-a911-80ae4bb36b1a" />
 <img width="791" alt="Screenshot 2025-03-23 at 09 08 58" src="https://github.com/user-attachments/assets/800865e9-0567-4dbc-9b8f-8eb41385723b" />
 <img width="791" alt="Screenshot 2025-03-23 at 09 08 49" src="https://github.com/user-attachments/assets/e6d11b4a-66e0-4d84-91fc-be349664311a" />
 ##
+
 **Customer Satisfaction by Season**
 <img width="716" alt="Screenshot 2025-03-23 at 12 53 08" src="https://github.com/user-attachments/assets/a0188458-8260-478c-bd23-25d204a8dd20" />
 ##
+
 **Sentiment Distribution for Top 10 Routes:**
 <img width="790" alt="Screenshot 2025-03-23 at 12 54 30" src="https://github.com/user-attachments/assets/1b66e333-ddfc-4df1-bb1e-a205e15a196c" />
 
