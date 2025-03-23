@@ -56,6 +56,7 @@ The project follows these steps:
 ##
 
 **Popular Routes:** A bar chart showing the top 10
+
 <img width="792" alt="Screenshot 2025-03-23 at 09 06 22" src="https://github.com/user-attachments/assets/861d669a-893a-4f3c-8761-aaf656e858e0" />
 ##
 
@@ -84,14 +85,3 @@ The project follows these steps:
 - nltk
 - wordcloud
 - scipy
-
-## Contributors
-[Your Name]
-
-## Acknowledgements
-
-- [Dataset source]
-
-## License
-
-[Your chosen license]
